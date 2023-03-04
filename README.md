@@ -15,3 +15,6 @@ O controle das tarefas desse projeto será realizado no Github
 - :bug: correção de bug
 - :checkered_flag: release
 
+## Comando
+
+- expo start
